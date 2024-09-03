@@ -35,7 +35,7 @@ const AboutMenu = () => {
                   ns='about'
                   components={[
                     <a
-                      href='https://github.com/ztjhz/BetterChatGPT'
+                      href='https://andiyatech.org/'
                       target='_blank'
                       className='link'
                     />,
